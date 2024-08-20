@@ -1,0 +1,16 @@
+body {
+    width: 90vw;
+    height: 90vh;
+    background-image: url(./mac.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right bottom;
+}
+
+h1{
+    width: 150px;
+    color: white;
+    position:relative;
+    left: 630px;
+    top: 200px;
+}
